@@ -1,1 +1,4 @@
 role,person_id,name,email,extra_id
+Member,P001,Jonas Jonaitis,jonas@gmail.com,MEM-001
+Member,P002,Milda Petrauskaite,milda@gmail.com,MEM-002
+Member,P003,Tomas Jankauskas,tomas@gmail.com,MEM-003
