@@ -118,7 +118,6 @@ def menu_list_members(lib):
 def main():
     lib = Library.get_instance("Vilnius Tech biblioteka")
 
-    # Try loading existing data
     try:
         lib.load_from_csv("data")
     except Exception:
