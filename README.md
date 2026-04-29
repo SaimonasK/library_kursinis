@@ -36,7 +36,6 @@ Library — tai komandinės eilutės (CLI) programa, skirta valdyti bibliotekos 
 ```
 library_kursinis/
 ├── models/
-│   ├── __init__.py
 │   ├── base.py
 │   ├── items.py
 │   └── people.py
