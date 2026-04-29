@@ -134,7 +134,7 @@ Tai apsaugo duomenis nuo tiesioginio keitimo iš išorės.
 
 #### Paveldėjimas (*Inheritance*)
 
-Paveldėjimas leidžia klasei perimti kitos klasės atributus ir metodus. `Book` ir `Magazine` paveldi iš `LibraryItem`, o `Member` ir `Librarian` — iš `Person`:
+Paveldėjimas leidžia klasei perimti kitos klasės atributus ir metodus. `Book` ir `Magazine` paveldi iš `LibraryItem`, o `Member` — iš `Person`:
 
 ```python
 class Book(LibraryItem):
