@@ -1,1 +1,4 @@
 type,item_id,title,year,field1,field2,field3,is_available
+Book,B001,Metai,1818,Kristijonas Donelaitis,169-001,Poema,True
+Book,B002,Altoriu sesely,1933,Vincas Mykolaitis-Putinas,169-002,Psichologinis romanas,True
+Magazine,M001,Zmones,2025,,170,15min,True
